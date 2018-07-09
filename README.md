@@ -1,1 +1,2 @@
-"# tetris2048-java" 
+# tetris2048-java
+A former school java project.
